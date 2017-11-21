@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="PasteleriaMauro_IS_Project" version="4">
+  <OBJECT>
+    <ID name="PasteleriaMauro_IS_Project" mc="Infrastructure.DiagramSet" uid="c6c95cad-d19c-44aa-b422-5ed33845bd8f"/>
+    <PID name="PasteleriaMauro_IS_Project" mc="Standard.Project" uid="e1b1772d-cf9b-4414-af15-af12d9a4ed51"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[PasteleriaMauro_IS_Project]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

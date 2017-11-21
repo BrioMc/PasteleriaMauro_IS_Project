@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pasteleriamauro_is_project_UseCase" version="4">
+  <OBJECT>
+    <ID name="pasteleriamauro_is_project_UseCase" mc="Standard.Package" uid="400e147d-ee25-4ced-9b8a-2067667c4fbf"/>
+    <PID name="PasteleriaMauro_IS_Project" mc="Standard.Project" uid="e1b1772d-cf9b-4414-af15-af12d9a4ed51"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[pasteleriamauro_is_project_UseCase]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Jefe" mc="Standard.Actor" uid="d950aa88-7c11-4f83-9fe9-3e9acac486cb"/>
+        <COMPID name="Empleado" mc="Standard.Actor" uid="48ab0421-c82a-431f-8793-cb144fecc66d"/>
+        <COMPID name="Solicitar productos" mc="Standard.UseCase" uid="21885695-dcc9-45d6-8271-64221eaaf331"/>
+        <COMPID name="Gestion pedido venta" mc="Standard.UseCase" uid="c828acb5-402b-4cb4-810e-aca0b707ae3f"/>
+        <COMPID name="Cocinar" mc="Standard.UseCase" uid="096347b0-6eee-484f-8a62-00360325bcee"/>
+        <COMPID name="Gestión solicitudes de empleo" mc="Standard.UseCase" uid="2330adb0-6f78-4dc3-8734-6a10a08e8bab"/>
+        <COMPID name="Cobrar" mc="Standard.UseCase" uid="1a9b4a45-3c38-4912-b26c-c32fe116058f"/>
+        <COMPID name="Recibir productos" mc="Standard.UseCase" uid="83e8da76-7be2-4624-90f0-6097be6b41c9"/>
+        <COMPID name="Proveedores" mc="Standard.Actor" uid="4e75b606-78c6-442b-8580-5b4bc6b637f0"/>
+        <COMPID name="Enviar facturas a Gestora" mc="Standard.UseCase" uid="bf423902-6818-43e8-bf6e-5b1915630340"/>
+        <COMPID name="Recibir informe contabilidad" mc="Standard.UseCase" uid="b3197bda-193f-432f-bc15-a49ea1c64082"/>
+        <COMPID name="Gestora" mc="Standard.Actor" uid="2d0c2913-da77-49a1-bb1a-938e81cd7d6c"/>
+        <COMPID name="Solicitud de pedido" mc="Standard.UseCase" uid="3946fe10-a60d-4796-9dac-e3d5ca4c24f4"/>
+        <COMPID name="Pagar productos" mc="Standard.UseCase" uid="3dbc56a8-6888-4a00-88c3-618d242d1309"/>
+        <COMPID name="Comprobar existencias" mc="Standard.UseCase" uid="d2d44039-4e7c-42a9-a33f-c18ae7a47bb7"/>
+        <COMPID name="Gestión contabilidad" mc="Standard.UseCase" uid="1de428d9-7705-4486-8c1f-30bbcbb6220b"/>
+        <COMPID name="Pagar gestión" mc="Standard.UseCase" uid="dc2aebd7-e41f-4a5b-ab4b-d94581df69bb"/>
+        <COMPID name="Cliente" mc="Standard.Actor" uid="d6876fb0-4c55-4c44-b59b-2bae5a210070"/>
+        <COMPID name="Preparar pedido" mc="Standard.UseCase" uid="810c94f0-6363-45ed-8a2d-8a38cc6e2211"/>
+        <COMPID name="Entregar pedido" mc="Standard.UseCase" uid="c285d5f2-9bf7-44e8-a346-7aeb0369e99d"/>
+        <COMPID name="Recibir solicitud empleo" mc="Standard.UseCase" uid="e036dead-ece9-46d0-9f34-f1e3ae60781c"/>
+        <COMPID name="Concertar entrevista" mc="Standard.UseCase" uid="d27bbaee-ccd2-49c2-9aaa-cef11fc03f3b"/>
+        <COMPID name="Alta nuevo empleado" mc="Standard.UseCase" uid="3093d392-5f1c-479c-884c-0acf293a689c"/>
+        <COMPID name="Interesado" mc="Standard.Actor" uid="a927eb85-ec52-4588-8ccc-c02a12475562"/>
+        <COMPID name="Empresa Exportadora" mc="Standard.Actor" uid="501d59fd-a275-4d00-9f67-163a3a269429"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="pasteleriamauro_is_project Use Case diagram" mc="Standard.UseCaseDiagram" uid="28c152b3-856e-46e0-a434-790e30feb6a7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

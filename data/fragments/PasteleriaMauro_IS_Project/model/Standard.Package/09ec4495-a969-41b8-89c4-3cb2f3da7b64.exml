@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="DataTypes" version="4">
+  <OBJECT>
+    <ID name="DataTypes" mc="Standard.Package" uid="09ec4495-a969-41b8-89c4-3cb2f3da7b64"/>
+    <PID name="pasteleriamauro_is_project_ClassDiagram" mc="Standard.Package" uid="99ef0a42-482b-45c2-bbd8-783565a96276"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[DataTypes]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Lista&lt;LineaPedidosProveedor&gt;" mc="Standard.DataType" uid="ba97ca45-e1ff-4a8d-a42e-19b25db40a00"/>
+        <COMPID name="Lista&lt;LineaPedidosVenta&gt;" mc="Standard.DataType" uid="6ef05ceb-87ac-4160-b9a9-68614713aeb3"/>
+        <COMPID name="Lista&lt;Ingrediente&gt;" mc="Standard.DataType" uid="eab51883-a028-449a-8049-284961a741ff"/>
+        <COMPID name="Lista&lt;Cliente&gt;" mc="Standard.DataType" uid="125a6d6b-7faf-4e33-9884-d1fc19d9d17c"/>
+        <COMPID name="Lista&lt;Proveedor&gt;" mc="Standard.DataType" uid="bd4590f7-a784-4267-9a38-7ecc762b40a2"/>
+        <COMPID name="Lista&lt;Personal&gt;" mc="Standard.DataType" uid="5375e0bc-c424-4038-a880-bb39a994c94a"/>
+        <COMPID name="Lista&lt;Producto&gt;" mc="Standard.DataType" uid="e495b8ca-713a-421c-bfc0-306a0cc747c3"/>
+        <COMPID name="Lista&lt;Direccion&gt;" mc="Standard.DataType" uid="d3c7ec81-bf7d-4a9d-b1de-ba81f5b939cb"/>
+        <COMPID name="Lista&lt;EmpresaTransporte&gt;" mc="Standard.DataType" uid="c87e4865-eb99-49c2-8af9-b2a59bd3b881"/>
+        <COMPID name="Lista&lt;PedidoCliente&gt;" mc="Standard.DataType" uid="2b43e291-1790-44ef-9f78-43d6e9306063"/>
+        <COMPID name="Lista&lt;PedidoProveedor&gt;" mc="Standard.DataType" uid="44bbf7df-79c8-4a6d-b59f-101990c69dad"/>
+        <COMPID name="Lista&lt;FacturaProveedor&gt;" mc="Standard.DataType" uid="ac71fbd9-2402-4d6c-af36-336f66c928d4"/>
+        <COMPID name="Lista&lt;FacturaCliente&gt;" mc="Standard.DataType" uid="bd13bc2c-0609-44ac-be49-d4e919518ad9"/>
+        <COMPID name="Lista&lt;IngredientePorProveedor&gt;" mc="Standard.DataType" uid="e131afa9-ece2-4a0f-ac07-9f2256d7b9ac"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

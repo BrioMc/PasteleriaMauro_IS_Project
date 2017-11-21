@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Lista&lt;LineaPedidosProveedor&gt;" version="4">
+  <OBJECT>
+    <ID name="Lista&lt;LineaPedidosProveedor&gt;" mc="Standard.DataType" uid="ba97ca45-e1ff-4a8d-a42e-19b25db40a00"/>
+    <PID name="DataTypes" mc="Standard.Package" uid="09ec4495-a969-41b8-89c4-3cb2f3da7b64"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">true</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Lista<LineaPedidosProveedor>]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
