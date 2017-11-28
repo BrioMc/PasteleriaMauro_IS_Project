@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Comprobar Existencias Sequence diagram" version="4">
+  <OBJECT>
+    <ID name="Comprobar Existencias Sequence diagram" mc="Standard.SequenceDiagram" uid="60af08a8-56c2-4103-bae9-3ee4e48ef098"/>
+    <PID name="Interaction" mc="Standard.Interaction" uid="ed5d535f-9432-4365-809a-fddf2ffa7af3"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">351</ATT>
+      <ATT name="UiData"><![CDATA[eJztU8FO4zAQ/RXL97qBFlSkUARNVSGyFLW7SHtCk3haDI7dtR1o/h6HJkC7apSV0HLhZGs8782b8ZvwbJ1J8oTGCq1O6QELKDkbhtPkAVNHBPchSlyxwlOqzZJlmqMUmnEBSwMZQy6cNszinxxVigwlZqicfYvUiZNsXkWiTYSSDB60uXsrHdBheGP0Co0riILMV5RQ6NxF4MC/3YLMsZKicilpdxh2a8Bf0LkrJNKtRg6bGrFlvmWpNsg22Bb6RmBT4MjrYuO1m+GiZZVrT1EhCa5dlFx6ja/X8sJxAbl0O012N+00NW5QgkPudezM7EcZIk9lpBwPKA6Gs51fIccBLIIBDDpHx+lhp38Q9DoJ4Emnh9jH/gAXwcmgefISrLtS+lnFkKDcETF3RqglHY50tjI6AUPGa2GdVyDAkloMqeYVdl+xje1qiZeqpNNWOP9Rewq2oBrdC8kNlgyx1+RTq2MvIhbq0bZPv1hGBp69nBgKNNvm7DVuWb1VfIO3TJYMfqm2CP/PRv0b6svtKPgeR0QTFp//Hs/uLs5HV5PZ9Nd19DkmabGkH7/t3UAf7ND/tsNX2eHn9OazfbD36QUYcp4F]]></ATT>
+      <ATT name="Name"><![CDATA[Comprobar Existencias Sequence diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="73add091-2028-4e40-a12f-cce30c321417"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

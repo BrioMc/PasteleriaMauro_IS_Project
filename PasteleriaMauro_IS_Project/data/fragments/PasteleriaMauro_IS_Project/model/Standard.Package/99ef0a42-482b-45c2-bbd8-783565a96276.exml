@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pasteleriamauro_is_project_ClassDiagram" version="4">
+  <OBJECT>
+    <ID name="pasteleriamauro_is_project_ClassDiagram" mc="Standard.Package" uid="99ef0a42-482b-45c2-bbd8-783565a96276"/>
+    <PID name="PasteleriaMauro_IS_Project" mc="Standard.Project" uid="e1b1772d-cf9b-4414-af15-af12d9a4ed51"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[pasteleriamauro_is_project_ClassDiagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="ed5d535f-9432-4365-809a-fddf2ffa7af3"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cliente" mc="Standard.Class" uid="e5115d44-5aee-4a15-89c8-a4abb8480e47"/>
+        <COMPID name="DataTypes" mc="Standard.Package" uid="09ec4495-a969-41b8-89c4-3cb2f3da7b64"/>
+        <COMPID name="Direccion" mc="Standard.Class" uid="5fb009bf-c970-4406-bfc9-0fc1dd52838a"/>
+        <COMPID name="EmpresaTransporte" mc="Standard.Class" uid="de4eeb84-53aa-40a7-a24f-b11aae413b47"/>
+        <COMPID name="Envío" mc="Standard.Class" uid="5c5fd9e6-a95d-46ad-b6fc-c706cf616db8"/>
+        <COMPID name="Factura" mc="Standard.Class" uid="1864bc18-761d-4c11-87c1-e71e86bb1d58"/>
+        <COMPID name="FacturaProveedor" mc="Standard.Class" uid="1c42cfc7-731d-4567-b8b9-7a83158d087b"/>
+        <COMPID name="GESTOR E/S" mc="Standard.Class" uid="25230419-27e4-4c58-95cf-87de84541cbf"/>
+        <COMPID name="GestorClientes" mc="Standard.Class" uid="517104cb-68ea-4e33-b170-359815ccf7c0"/>
+        <COMPID name="GestorDirecciones" mc="Standard.Class" uid="c79df98e-917c-4c79-a878-a4abbbc39203"/>
+        <COMPID name="GestorExportaciones" mc="Standard.Class" uid="549855dc-cbca-4dbc-a635-d4dfedf2ac6c"/>
+        <COMPID name="GestorPedidosClientes" mc="Standard.Class" uid="a99d716f-8f66-42f6-8b27-31c576d94519"/>
+        <COMPID name="GestorPedidosProv" mc="Standard.Class" uid="b08f2222-6fc6-4365-8b4d-bf4cd37ddedd"/>
+        <COMPID name="GestorPersonal" mc="Standard.Class" uid="2eeafed2-5f6a-49f5-8f7a-e5e231b2c92f"/>
+        <COMPID name="GestorProductos" mc="Standard.Class" uid="52fe7cd3-0364-4472-aa8d-4e21f1f29edb"/>
+        <COMPID name="GestorProveedores" mc="Standard.Class" uid="bff36428-73ae-4f7a-ab3b-fdb8a86ff2a3"/>
+        <COMPID name="Ingrediente" mc="Standard.Class" uid="034f1cd1-2def-46d2-b601-4b41b7cb0bd6"/>
+        <COMPID name="IngredientePorProveedor" mc="Standard.Class" uid="b2869aae-20dc-44a5-ba45-c0421aaa888b"/>
+        <COMPID name="LineaPedidosProveedor" mc="Standard.Class" uid="870cb4b1-b667-4e05-9d50-827d5cef7019"/>
+        <COMPID name="LineaPedidosVenta" mc="Standard.Class" uid="1558d2a3-b977-463e-84e3-91bb3483bb9a"/>
+        <COMPID name="PedidoCliente" mc="Standard.Class" uid="96126520-04b3-4d70-9a57-be65f6914689"/>
+        <COMPID name="PedidoProveedor" mc="Standard.Class" uid="4256b064-f0b0-4c15-871d-8b67bcd0c9dd"/>
+        <COMPID name="Persona" mc="Standard.Class" uid="043ef748-81ff-409b-b2e6-58348d7e5928"/>
+        <COMPID name="Personal" mc="Standard.Class" uid="803d8b91-b524-4457-ad3d-0f4edb4b120b"/>
+        <COMPID name="Producto" mc="Standard.Class" uid="11ede133-42ac-4c6d-9ca1-c46373f4b9ef"/>
+        <COMPID name="Proveedor" mc="Standard.Class" uid="32041926-b5be-4a22-b89a-6a3809e6d1c8"/>
+        <COMPID name="ProveedorPorIngrediente" mc="Standard.Class" uid="6941c0ea-3abf-403c-99e9-16d578fb826a"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="pasteleriamauro_is_project_ClassDiagram Class diagram" mc="Standard.ClassDiagram" uid="194695a1-0e28-4084-bd35-011299926d7f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
